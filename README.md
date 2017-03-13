@@ -5,15 +5,22 @@ Internship Program Material
 ![TISInternship.png](./images/TISInternship.png)
 
 * [Program Tutorial](https://docs.google.com/presentation/d/1Us7osvZ7Q8Axx3fMVzzsHn3ASmV2pOcCVR5eckx-rEc/edit?usp=sharing)
-* [Presentation Material](https://docs.google.com/presentation/d/14eGoUcWjr9JkcgVFv14PI8xXpjvtkCS2VMJWU9_fYSk/edit?usp=sharing)
 
 ## Schedule
 
 ![flow.PNG](./images/flow.PNG)
 
+![daily_schedule.PNG](./images/daily_schedule.PNG)
+
 ## Environment Setup
 
-開発には、基本的にPythonを利用します。また、ソースコードの管理にはGitを利用します。そのため、そのための環境をセットアップします。
+最初に、最終発表資料のテンプレートをコピーします。これを埋めていく形で、インターンは進行します。
+
+* [Presentation Material](https://docs.google.com/presentation/d/14eGoUcWjr9JkcgVFv14PI8xXpjvtkCS2VMJWU9_fYSk/edit?usp=sharing)
+
+(資料のデザインは好きに修正していただいて構いません)
+
+開発には、基本的にPythonを利用します。また、ソースコードの管理にはGitを利用します。そのための環境をセットアップします。
 
 * [Python Setup](http://qiita.com/icoxfog417/items/950b8af9100b64c0d8f9)
 * [Git Setup](https://git-scm.com/downloads)
