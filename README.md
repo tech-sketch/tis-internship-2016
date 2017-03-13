@@ -1,6 +1,7 @@
 # TIS Internship Program
 
 ![TISInternship.png](./images/TISInternship.png)
+
 [Program Tutorial](https://docs.google.com/presentation/d/1Us7osvZ7Q8Axx3fMVzzsHn3ASmV2pOcCVR5eckx-rEc/edit?usp=sharing)
 
 **参加申し込みはこちらから: [TIS Wantedly Page](https://www.wantedly.com/companies/tis)**
