@@ -12,6 +12,8 @@ Internship Program Material
 
 ![daily_schedule.PNG](./images/daily_schedule.PNG)
 
+最後に、インターンのGitHubに成果をIssueとしてあげて頂きます。
+
 ## Environment Setup
 
 最初に、最終発表資料のテンプレートをコピーします。これを埋めていく形で、インターンは進行します。

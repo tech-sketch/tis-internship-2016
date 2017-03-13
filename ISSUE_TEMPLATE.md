@@ -2,9 +2,9 @@
 
 <top image>
 
-![your slideshare link]()
+![SlideSahre]()
 
-![your GitHub link]()
+![GitHub]()
 
 
 ## Feature
