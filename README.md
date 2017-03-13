@@ -30,7 +30,8 @@ Internship Program Material
 * [Git Setup](https://git-scm.com/downloads)
 * [GitHub Account Setup](https://github.com/)
 
-- [] 
+- [] ddd
+- [] hoge
 
 ## Elementary Knowledge
 
