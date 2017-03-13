@@ -1,20 +1,26 @@
-# Internship Program
-
-Internship Program Material
+# TIS Internship Program
 
 ![TISInternship.png](./images/TISInternship.png)
+[Program Tutorial](https://docs.google.com/presentation/d/1Us7osvZ7Q8Axx3fMVzzsHn3ASmV2pOcCVR5eckx-rEc/edit?usp=sharing)
 
-* [Program Tutorial](https://docs.google.com/presentation/d/1Us7osvZ7Q8Axx3fMVzzsHn3ASmV2pOcCVR5eckx-rEc/edit?usp=sharing)
+**参加申し込みはこちらから: [TIS Wantedly Page](https://www.wantedly.com/companies/tis)**
 
-**Do you want to participate? Please visit -> [TIS Wantedly Page](https://www.wantedly.com/companies/tis)**
+## About TIS
+
+TISってこんな会社
+
+* [Wantedly](https://www.wantedly.com/companies/tis)
+* [Qiita Organization](http://qiita.com/organizations/tis/activities)
 
 ## Schedule
+
+技術インターンのスケジュールです。
 
 ![flow.PNG](./images/flow.PNG)
 
 ![daily_schedule.PNG](./images/daily_schedule.PNG)
 
-最後に、インターンのGitHubに成果を[Issueとしてあげて頂きます](https://github.com/tech-sketch/tis_internship/issues)。
+最後に、インターンのGitHubに成果を[Issueとして登録して頂きます](https://github.com/tech-sketch/tis_internship/issues)。
 
 ## Environment Setup
 
@@ -30,18 +36,20 @@ Internship Program Material
 * [Git Setup](https://git-scm.com/downloads)
 * [GitHub Account Setup](https://github.com/)
 
-- [] ddd
-- [] hoge
-
 ## Elementary Knowledge
+
+開発に利用するPython、Gitについて不慣れな場合は、以下のトレーニングマテリアルで学習できます。
 
 * [Python Exercise](https://github.com/icoxfog417/python_exercises)
   * [and more!](http://qiita.com/icoxfog417/items/3a5d1d31632a7225f92a#_reference-2cbe716b9e4b8408c088)
 * [Git Tutorial](http://qiita.com/icoxfog417/items/617094c6f9018149f41f)
+  * [If you want to need more fantastic tutorial...?](http://unit8.net/gq/)
 
 ![git.PNG](./images/git.PNG)
 
 ## Additional Knowledge
+
+追加で利用したい技術についての、ガイドになります。
 
 * Machine Learning
   * [Basic](https://github.com/icoxfog417/baby_steps_of_machine_learning)
