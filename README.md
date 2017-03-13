@@ -6,13 +6,15 @@ Internship Program Material
 
 * [Program Tutorial](https://docs.google.com/presentation/d/1Us7osvZ7Q8Axx3fMVzzsHn3ASmV2pOcCVR5eckx-rEc/edit?usp=sharing)
 
+**Do you want to participate? Please visit -> [TIS Wantedly Page](https://www.wantedly.com/companies/tis)**
+
 ## Schedule
 
 ![flow.PNG](./images/flow.PNG)
 
 ![daily_schedule.PNG](./images/daily_schedule.PNG)
 
-最後に、インターンのGitHubに成果をIssueとしてあげて頂きます。
+最後に、インターンのGitHubに成果を[Issueとしてあげて頂きます](https://github.com/tech-sketch/tis_internship/issues)。
 
 ## Environment Setup
 
@@ -27,6 +29,8 @@ Internship Program Material
 * [Python Setup](http://qiita.com/icoxfog417/items/950b8af9100b64c0d8f9)
 * [Git Setup](https://git-scm.com/downloads)
 * [GitHub Account Setup](https://github.com/)
+
+- [] 
 
 ## Elementary Knowledge
 
